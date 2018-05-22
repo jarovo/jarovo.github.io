@@ -1,4 +1,9 @@
-Connecting UniPi the first time using link-local address
+---
+title: Connecting UniPi the first time using link-local address
+layout: default
+---
+
+{{ page.title }}
 ------------------------------------------------------------
 
 Recently I found out there is a possiblity to connect UniPi without the need of
@@ -7,7 +12,7 @@ first time.
 
 I used wireshark to get the IPv6 address of UniPi:
 
-![Getting the address using wireshark.](/picture.png)
+![Getting the address using wireshark.](/posts-data/2018-05-16-unipi-connecting/picture.png)
 
 Then I connected to it simply using the ssh:
 
