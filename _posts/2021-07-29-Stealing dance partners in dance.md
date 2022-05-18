@@ -16,8 +16,7 @@ The technique:
    and let yourself be noticed by warm contact of your hand.
  * Mimic the moves the one you are replacing does.
  * We can cooperate in stealing partners -- meaning:
-   * The one about to be replaced may yield his/her role with ease to you
-     - the thief.
+   * The one about to be replaced may yield his/her role with ease to you - the thief.
    * Or may challenge the you thief a bit by being in the way of the thief.
  * Partner can be stolen by
    * replacing the hand -- the left one for the leader right for the folower.
