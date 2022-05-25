@@ -24,6 +24,14 @@ dílech. Stačí je jen dát správně dohromady tak, aby vznikala harmonie.
 Nenásilná komunikace je o tom jak pochopit potřeby druhého člověka. Jak se na
 ně zeptat. Jak se domluvit na řešení situace.
 
+Je také o tom jak vyjádřit své potřeby. Jdeme-li do hloubky, můžeme zjistit, že 
+potřeby všech stran jsou ve shodě. Pak může nastat *spolupráce*. Ne vždy to tak
+musí nutně být. Pak může konflikt vyůstit v *přizpůsobení se*, *sílu*, *odchod*.
+NVC nám tedy dává možnosti, které jsme třeba v minulosti nebyli schopni použít.
+
+
+## O Kurzu.
+
 O víkendu jsem byl na kurzu Nenásilné komunikce (Nonviolent communication- NVC, 
 https://nenasilnakomunikace.org/). Mám z tohoto kuzu dobrý pocit. Chtělo 
 to ale víc praktik. Na ty jsem se bohužel zatím nedostal. Je plno.
@@ -65,7 +73,9 @@ Výborná technika. Člověka to rozproudí a má to další pozitivní efekt, �
 
 
 ## Jak kurz probíhal?
-Píšu tak jak si to pamatuji. Některé skutečnosti můžou být nepřesné.
+
+Na začátek bylo poněkud úsměvné, leč zajímavé tvrzení, že každý správná
+prezentace musí obsahovat ledovec, nebo "Už staří Řekové veděli...".
 
 
 ## Pocity
@@ -89,16 +99,19 @@ co slyšel.
 
 ## 4 Kroky upřímného sebevyjádření.
 
-### Pozorování - **<font color="red">NE</font>** interpretace
+### Pozorování - **\*NE\*** interpretace
  * Co by viděla kamera v místnosti.
  * Shodneme se na tom, co řešíme.
+ * Často lidi velice posouvá kupředu. Je to takovým pevným bodem od
+   kterého se můžeme "odpíchnout". Už i starý Archimedes potřeboval pevný bod (:
 
-### Pocit - **<font color="red">NE</font>** myšlenky
- * Cítím <<pocit>>. **<font color="red">NE</font>** Cítím že <<něco>>. To je myšlenka.
+### Pocit - **\*NE\*** myšlenky
+ * Cítím &lt;&lt;pocit>>. **\*NE\***** Cítím, že
+   <<tvrzení>>. Tvrzení je myšlenkou.
 
-### Potřeba - **<font color="red">NE</font>** strategie jak něčeho dosáhnout.
+### Potřeba - **\*NE\*** strategie jak něčeho dosáhnout.
  * Co bych chtěl teď udělalo můj život krásnější.
 
-### Prosby - **<font color="red">NE</font>** rozkazy.
+### Prosby - ***\*NE\*** rozkazy.
  * Další krok, o který můžeme druhého požádat.
 
