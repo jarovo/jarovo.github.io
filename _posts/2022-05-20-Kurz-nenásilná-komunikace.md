@@ -168,6 +168,8 @@ co slyšel.
 
 ## Horké křeslo
 
+Skutečný trening probíhal v horkém křesle v simulovaném dialogu s konfliktem.
+
 
 ## Konverzační kontexty
 Existují kontexty konverzací s pravidly.
