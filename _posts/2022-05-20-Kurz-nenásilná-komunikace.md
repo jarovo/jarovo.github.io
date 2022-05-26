@@ -185,13 +185,17 @@ Někdy nastává nepotkání-se v kontextu.
 1. Všímat si v jakém kontextu jsme
 2. Vyjednat který kontext chci a zrušit který kontext nechci.
 
-## Literatura a osobnosti:
+## Kurzy, informace, zdroje:
+### Literatura a osobnosti:
  * M. Rosenberg: Nenásilná komiunikace
  * Book by Kelly Bryson: Don't Be Nice
  * Miki Kashtan
 
 
-## Kurzy:
+### Podcast:
+ * https://www.nenasilnypodcast.cz/
+
+### Odkazy
  * [http://nenaasilnakomunikace.org](https://nenasilnakomunikace.org)
  * [4 kroky k sobě](https://nenasilnakomunikace.org/kurz/4-kroky-k-sobe-brno-nenasilna-komunikace-divadlem/)
  * KOKS někde na [http://nenaasilnakomunikace.org](https://nenasilnakomunikace.org)
