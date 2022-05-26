@@ -102,8 +102,9 @@ co slyšel.
 ### Pozorování - **\*NE\*** interpretace
  * Co by viděla kamera v místnosti.
  * Shodneme se na tom, co řešíme.
- * Často lidi velice posouvá kupředu. Je to takovým pevným bodem od
-   kterého se můžeme "odpíchnout". Už i starý Archimedes potřeboval pevný bod (:
+ * Společné pozorování často lidi velice posouvá kupředu. Je to takovým pevným 
+   bodem od kterého se můžeme "odpíchnout". Už i starý Archimedes potřeboval 
+   pevný bod (:
 
 ### Pocit - **\*NE\*** myšlenky
  * Cítím &lt;&lt;pocit>>. **\*NE\***** Cítím, že
@@ -111,7 +112,88 @@ co slyšel.
 
 ### Potřeba - **\*NE\*** strategie jak něčeho dosáhnout.
  * Co bych chtěl teď udělalo můj život krásnější.
+ * Potřeba - co chci
+ * Strategie - jak toho chci dosáhnout.
+ * Ne každá potřeba nutně musí být naplněna. Je to naše volba, které potřeby
+   se rozhodneme naplňovat.
 
 ### Prosby - ***\*NE\*** rozkazy.
  * Další krok, o který můžeme druhého požádat.
+ * Je potřeba být ochoten na moji prosbu slyšet "Ne".
+
+
+ Když si všichni sedli, cítil jsem bušení srdce protože bych potřeboval vědět 
+ kolik času všem dát. Mohli byste mi prosím dát signál, že jste hotovi 
+ s poznámkami? Třeba tak, že položíte tužku.
+
+
+## Empatie
+### Velké chyby
+ * Odmítnutí konverzace.
+ * Převedení pozornosti.
+ * Prosba o změnu emoce.
+ * Bagatelizace
+ * Nevyžádaná rada.
+
+### Která tvrzení nepomáhají?
+ * Máš to fakt těžký ..., to když já ...
+ * Uklidni se, bude to dobrý ...
+ * Jsou lidi co jsou na tom hůř ...
+ * Děti v africe ...
+ * Na všem špatném je něco dobrého ...
+ * Co tě nezabije, to tě posílí ...
+ * Z toho nemáš být nešťastný/á ...
+ * "Chudinko"...
+ * Rada ...
+ * To já bych ...
+ * Zkoušel/a jsi ...
+ * Moc se pozoruješ ...
+ * Co bys dělal kdyby bylo hůř?
+ * Nechci to poslouchat ...
+ * Ale prosím tě ...
+ * Ty naděláš ....
+ * Chceš důvod ...
+
+### Co pomáhá?
+ * **Udržení pozornosti.**
+ * Validace emoce.
+ * Nelitovat.
+ * Parafráze (Pocitů a potřeb).
+ * Pozornost tomu co je přítomné.
+ * Respekt k prožívání.
+ * Normalizace. **NE**: kašli na to.
+ * Soucit.
+ * Přítomnost.
+ * Přijetí.
+
+## Horké křeslo
+
+
+## Konverzační kontexty
+Existují kontexty konverzací s pravidly.
+
+ * Smalltalk - nevytahovat těžká témata (Je to divný.)
+ * Sdílení
+ * Operativa
+ * Problem solving
+ * Konflikt
+ * Péče o rány
+ * Vize a plány
+
+Někdy nastává nepotkání-se v kontextu.
+
+1. Všímat si v jakém kontextu jsme
+2. Vyjednat který kontext chci a zrušit který kontext nechci.
+
+## Literatura a osobnosti:
+ * M. Rosenberg: Nenásilná komiunikace
+ * Book by Kelly Bryson: Don't Be Nice
+ * Miki Kashtan
+
+
+## Kurzy:
+ * [http://nenaasilnakomunikace.org](https://nenasilnakomunikace.org)
+ * [4 kroky k sobě](https://nenasilnakomunikace.org/kurz/4-kroky-k-sobe-brno-nenasilna-komunikace-divadlem/)
+ * KOKS někde na [http://nenaasilnakomunikace.org](https://nenasilnakomunikace.org)
+ * Refresh NVC
 
