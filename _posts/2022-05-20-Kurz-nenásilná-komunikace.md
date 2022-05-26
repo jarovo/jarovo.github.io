@@ -32,6 +32,7 @@ NVC nám tedy dává možnosti, které jsme třeba v minulosti nebyli schopni po
 
 ## O Kurzu.
 
+### Jak kurz probíhal?
 O víkendu jsem byl na kurzu Nenásilné komunikce (Nonviolent communication- NVC, 
 https://nenasilnakomunikace.org/). Mám z tohoto kuzu dobrý pocit. Chtělo 
 to ale víc praktik. Na ty jsem se bohužel zatím nedostal. Je plno.
@@ -71,11 +72,11 @@ jména všech.
 Výborná technika. Člověka to rozproudí a má to další pozitivní efekt, že se 
 člověk naučí jména tím, že poslouchá to co se naučili ostatí.
 
-
-## Jak kurz probíhal?
-
-Na začátek bylo poněkud úsměvné, leč zajímavé tvrzení, že každý správná
+Na začátku přednášky bylo poněkud úsměvné, leč zajímavé tvrzení, že každý správná
 prezentace musí obsahovat ledovec, nebo "Už staří Řekové veděli...".
+
+Přednáška byla vyplněna pauzami. Následovalo horké křeslo. Pak nějaký 
+"checkout". Tedy zakončení.
 
 
 ## Pocity
@@ -195,7 +196,7 @@ Někdy nastává nepotkání-se v kontextu.
 
 
 ### Podcast:
- * https://www.nenasilnypodcast.cz/
+ * [https://www.nenasilnypodcast.cz/](https://www.nenasilnypodcast.cz/)
 
 ### Odkazy
  * [http://nenaasilnakomunikace.org](https://nenasilnakomunikace.org)
