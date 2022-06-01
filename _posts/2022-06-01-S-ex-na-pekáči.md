@@ -7,7 +7,7 @@ k tomu ještě z žebra kost,
 a pak rychle ... zvolám dost!
 Zvedneš se a děláš most.
 
-Obdivuješ tenhle skvost,
+Obdivuji tenhle skvost,
 žít si jen tak pro radost.
 K tomu chleba z výhně žáru,
 nepřekročím tvoji čáru.
