@@ -14,4 +14,11 @@ nepřekročí tvoji čáru.
 
 Pohltíš pak celou půlku
 a řekneš mi já chci i kůrku.
+Celou půlku mňamky mňam.
+Pro to jídlo slabost mám.
+
+Taky si dáš koblížek,
+bude tělo na dotek,
+tučné mastné sladké teplé
+odhalím tě v božím světle.
 ```
