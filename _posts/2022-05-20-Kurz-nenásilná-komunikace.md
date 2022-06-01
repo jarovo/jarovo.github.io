@@ -1,3 +1,6 @@
+---
+tags: Czech, Psychogy, Communication
+---
 ## Úvod
 
 ## Proč jsem se přihlásil?
