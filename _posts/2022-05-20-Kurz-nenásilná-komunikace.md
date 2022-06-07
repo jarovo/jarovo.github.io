@@ -5,22 +5,44 @@ tags: Czech, Psychogy, Communication
 
 ## Proč jsem se přihlásil?
 Nechci lidi zbytečně odstrkávat od sebe když jim potřebuji říct něco důležitého.
-Raději bych lidi motivoval dělat to co za čím přišli.
-Mám pocity nedostatečnosti v tom co se ode mne v komunikaci očekává.
-Potřebuji s tím něco dělat. Potřebuji se naučit motivovat lidi.
-Potřebuji s lidmi udržet dobrý vztah i když máme mezi sebou problémy v 
-podobě konfliktů názorů.
+Raději chci lidi motivoval dělat to co za čím přišli.
+Mívám pocity nedostatečnosti v tom co se ode mne v komunikaci očekává.
+Potřeboval jsem s tím začít něco dělat. Potřebuji se naučit motivovat se.
+Najít svoji vnitřní motivaci k tomu něco dělat. Vnitřní motivace je velkým
+zdrojem. Potřeboval jsem s lidmi udržet dobrý vztah i když máme mezi sebou 
+problémy v podobě konfliktů názorů.
 
 Před kurzem [Nenásilné komunikace](https://nenasilnakomunikace.org) jsem absolvoval
 workshop
 [Radikální upřímnost](https://radikalniuprimnost.cz/akce/radikalni-uprimnost-vikendovy-workshop/)
 kde jsem se učil lépe nastavovat své hranice a bránit je. Nenásilná 
 komunikace je pro mne nástrojem jak tyto hranice udržet bez použití 
-zastrašování v podobě křiku. Jsem toho názoru, že když se lidé dokáží domluvit, 
-dokáží velké věci.
+zastrašování v podobě křiku nebo jiných podobných agresivních technik. Jsem 
+toho názoru, že když se lidé dokáží domluvit, dokáží velké věci.
 
-Svět kolem mne je toho důkazem. Lidé jsou schopni spolupracovat na obrovských
-dílech. Stačí je jen dát správně dohromady tak, aby vznikala harmonie.
+Svět kolem mne je toho důkazem. Lidé jsou schopni spolupracovat na významných
+dílech. Stačí je jen dát správně dohromady a spolupracovat tak, aby vznikala 
+žádoucí synergie.
+
+## Synergie a dysergie.
+Zjednodušeně řečeno k synergii dochází, když dá člověk 
+dohromady lidi, kteří jsou schopni spolupracovat, vzniká tým, který produkuje
+i vedlejší produkty. Kapelu, která hraje a ladí a přináší radost do života
+nejem jim samotným, ale lidem okolo a ještě vydělají peníze a přilákají další.
+
+Matematicky bych to zapsal asi takto:
+práce(A) + práce(B) + ... = práce(A + B ...) + S - D.
+A a B a ... jsou entity.
+kde S je výsledkem synergie entit.
+D je výsledek dysergie entit.
+
+Jde o nelineární jev.
+
+Mnozí dají jist za pravdu a jiní budou odmítat:
+Prales je více než les o stejné rozloze a ten je více než plantáž.
+
+## Úhly pohledu
+Z ruzných úhlů pohledu tedy dochází k různým synergckým či dysergickým efektům.
 
 
 ## O čem je nenásilná komunikace?
@@ -49,7 +71,7 @@ vypadala asi takto:
       ž ž ž ž ž ž 
      
     L = lektor
-    ž = židle
+    ž = žák
 
 Místnost se postupně plnila a kromě prvního pokusu o kontakt bylo hrobové 
 ticho, které by se dalo krájet, což jsem vnímal docela intenzivně. A nevěděl 
@@ -132,6 +154,18 @@ co slyšel.
 
 
 ## Empatie
+### Co pomáhá?
+ * **Udržení pozornosti.**
+ * Validace emoce.
+ * Nelitovat.
+ * Parafráze (Pocitů a potřeb).
+ * Pozornost tomu co je přítomné.
+ * Respekt k prožívání.
+ * Normalizace. **NE**: kašli na to.
+ * Soucit.
+ * Přítomnost.
+ * Přijetí.
+
 ### Velké chyby
  * Odmítnutí konverzace.
  * Převedení pozornosti.
@@ -157,18 +191,6 @@ co slyšel.
  * Ale prosím tě ...
  * Ty naděláš ....
  * Chceš důvod ...
-
-### Co pomáhá?
- * **Udržení pozornosti.**
- * Validace emoce.
- * Nelitovat.
- * Parafráze (Pocitů a potřeb).
- * Pozornost tomu co je přítomné.
- * Respekt k prožívání.
- * Normalizace. **NE**: kašli na to.
- * Soucit.
- * Přítomnost.
- * Přijetí.
 
 ## Horké křeslo
 
