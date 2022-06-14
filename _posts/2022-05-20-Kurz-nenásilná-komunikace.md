@@ -28,7 +28,7 @@ dílech. Stačí je jen dát správně dohromady a spolupracovat tak, aby vznika
 Zjednodušeně řečeno k synergii dochází, když dá člověk 
 dohromady lidi, kteří jsou schopni spolupracovat, vzniká tým, který produkuje
 i vedlejší produkty. Kapelu, která hraje a ladí a přináší radost do života
-nejem jim samotným, ale lidem okolo a ještě vydělají peníze a přilákají další.
+nejen jim samotným, ale lidem okolo a ještě vydělají peníze a přilákají další.
 
 Matematicky bych to zapsal asi takto:
 práce(A) + práce(B) + ... = práce(A + B ...) + S - D.
@@ -40,7 +40,7 @@ D je výsledek dysergie entit.
 Mnozí dají jistě za pravdu a jiní budou odmítat:
 Prales je více než les o stejné rozloze a ten je více než plantáž.
 Zde záleží na úhlu pohledu. Strážce pralesa mi dá za pravdu, majitel plantáže nikoliv.
-Z ruzných úhlů pohledu tedy dochází k různým synergckým či dysergickým efektům.
+Z různých úhlů pohledu tedy dochází k různým synergckým či dysergickým efektům.
 
 ## O čem je nenásilná komunikace?
 Nenásilná komunikace je o tom jak pochopit potřeby druhého člověka. Jak se na
@@ -55,8 +55,8 @@ NVC nám tedy dává možnosti, které jsme třeba v minulosti nebyli schopni po
 ## O Kurzu.
 
 ### Jak kurz probíhal?
-O víkendu jsem byl na kurzu Nenásilné komunikce (Nonviolent communication- NVC, 
-https://nenasilnakomunikace.org/). Mám z tohoto kuzu dobrý pocit. Chtělo 
+O víkendu jsem byl na kurzu Nenásilné komunikace (Nonviolent communication- NVC, 
+https://nenasilnakomunikace.org/). Mám z tohoto kurzu dobrý pocit. Chtělo 
 to ale víc praktik. Na ty jsem se bohužel zatím nedostal. Je plno.
 
 Kurz probíhal tak, že jsem vešel do místnosti a posadil se na místo hned vedle 
@@ -73,7 +73,7 @@ vypadala asi takto:
 Místnost se postupně plnila a kromě prvního pokusu o kontakt bylo hrobové 
 ticho, které by se dalo krájet, což jsem vnímal docela intenzivně. A nevěděl 
 jsem jak ho prorazit. Svou munici - "jaká byla cesta" jsem vypotřeboval hned 
-nazačátku.
+na začátku.
 
 Když jsme už čekali jen na posledních pár lidí, Peťa (Lektor) se zeptal, jestli někdo 
 známe X, že prý ten ještě chybí. Nikdo neznal. Peťa se s ním spojil a zjistil 
@@ -84,7 +84,7 @@ Z dvou front se stali členové za "kulatým stolem", kde si každý byl rovný
 s každým a nikdo nezůstával v koutě.
 
 Další akce která se odehrála byla seznamování se. Jak se jmenujeme a co si do 
-kurzu přinášíme v "baťůžku". Napříkladněkdo řekl tuším únavu z cesty.
+kurzu přinášíme v "baťůžku". Například někdo řekl tuším únavu z cesty.
 Další akce byla to, že jsme si měli za krátkou dobu zapamatovat jména asi 12 
 lidí. K tomu Peťa použil metodu akce spojené s odpovědností. Odpovědností za 
 to, aby druhý v pohodě chytil míček, který mu člověk hodí. To jsme hráli snad
@@ -92,10 +92,10 @@ to, aby druhý v pohodě chytil míček, který mu člověk hodí. To jsme hrál
 jména všech.
 
 Výborná technika. Člověka to rozproudí a má to další pozitivní efekt, že se 
-člověk naučí jména tím, že poslouchá to co se naučili ostatí.
+člověk naučí jména tím, že poslouchá to co se naučili ostatní.
 
 Na začátku přednášky bylo poněkud úsměvné, leč zajímavé tvrzení, že každý správná
-prezentace musí obsahovat ledovec, nebo "Už staří Řekové veděli...".
+prezentace musí obsahovat ledovec, nebo "Už staří Řekové věděli...".
 
 Přednáška byla vyplněna pauzami. Následovalo horké křeslo. Pak nějaký 
 "checkout". Tedy zakončení.
@@ -114,7 +114,7 @@ a nechal druhého mluvit, ten druhý měl více prostoru se vlastními slovy dob
 k vyjádření toho, co chtěl říct.
 
 Tuším, že nám před Petr říkal o různých způsobech
-naslouchání. Od mlčení, přitakávaní a zrcadlové otázky, k parafrázování.
+naslouchání. Od mlčení, přitakávání a zrcadlové otázky, k parafrázování.
 
 Po uběhnutí asi dvou minut se měl naslouchající pokusit tomu druhému říct,
 co slyšel.
@@ -212,7 +212,7 @@ Někdy nastává nepotkání-se v kontextu.
 
 ## Kurzy, informace, zdroje:
 ### Literatura a osobnosti:
- * M. Rosenberg: Nenásilná komiunikace
+ * M. Rosenberg: Nenásilná komunikace
  * Book by Kelly Bryson: Don't Be Nice
  * Miki Kashtan
 
