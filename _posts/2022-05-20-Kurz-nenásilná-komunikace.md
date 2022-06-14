@@ -36,14 +36,11 @@ A a B a ... jsou entity.
 kde S je výsledkem synergie entit.
 D je výsledek dysergie entit.
 
-Jde o nelineární jev.
-
-Mnozí dají jist za pravdu a jiní budou odmítat:
-Prales je více než les o stejné rozloze a ten je více než plantáž.
-
 ## Úhly pohledu
+Mnozí dají jistě za pravdu a jiní budou odmítat:
+Prales je více než les o stejné rozloze a ten je více než plantáž.
+Zde záleží na úhlu pohledu. Strážce pralesa mi dá za pravdu, majitel plantáže nikoliv.
 Z ruzných úhlů pohledu tedy dochází k různým synergckým či dysergickým efektům.
-
 
 ## O čem je nenásilná komunikace?
 Nenásilná komunikace je o tom jak pochopit potřeby druhého člověka. Jak se na
