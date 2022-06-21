@@ -11,4 +11,8 @@ tags: poem
     to shout loud I'll be back home soon
     when there is no star no moon
     please come visit me at noon
-    Let's sing together "Here comes the sun."
+    we'll go out and I'll make pun
+    that this was a short rainy run
+    it will last for eternity:
+    Awesome lady, see you pretty
+    soon.
