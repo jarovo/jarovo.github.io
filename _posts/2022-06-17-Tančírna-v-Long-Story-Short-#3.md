@@ -1,17 +1,15 @@
 Včera jsem byl na Swingu v Long Story Short.
 
-Během tance flirtuji s Markétou pomocí básniček. Markéta se přidává do rýmu. Mě 
-vychází rým končící "Pešť", což je restaurace poblíž Loštic. Markéta zareaguje 
-tak, že z toho vycítím, že Pešť zná. To mě překvapí. Někdo z okolí Lošitc!
-
-Večer mě a Matěje z Olomouce odvážela Markéta. Auto se porouchalo. Odhaduji, že 
+Mě a Matěje z Olomouce odvážela Markéta. Auto se porouchalo. Odhaduji, že 
 se motor točí na 3 ze 4 válců. Auto byla starší Fabie.
 
 Co byste dělali?
 
-Řeknu ti, co jsem dělal já. Začal jsem to řešit. Přikázal jsem ať otevře 
+Řeknu vám, co jsem v tu chvíli dělal já. Začal jsem to řešit. Přikázal jsem ať otevře 
 kapotu. Měl jsem v hlavě to, že chci tenhle problém vyřešit. Jako 
-"velitel vozu". Hmm, nejsou vidět kabely od svíček... Kryt motoru překáží. Za 
+"velitel vozu" - táta tak vždycky říkal sedadlu spolujezdce...
+
+Venku tma. Hmm, nejsou vidět kabely od svíček... Kryt motoru překáží. Za 
 běhu motoru se ho snažím sundat. Acho jo... začal jsem si zoufat ohledně krytu 
 a snažil jsem ho oddělat za běhu motoru. Nejde to. Zkusil jsem větší 
 silou. Nebál jsem se, že by se mi něco mohlo stát. Dělal jsem opatrně tak, 
@@ -19,24 +17,23 @@ abych nedošel k úhoně já ani Markéta, co do motoru měla taky tendence str�
 prst. Říkám: Nespal se!
 
 Ani po sundání krytu se mi problém nepodařilo najít a odstranit a navíc se 
-objevila žlutá signálka motoru. Markéta však nezačala ihned svalovat bezhlavě 
+objevila žlutá signálka motoru. Napadá mě, že si Markéta asi teď myslí, že
+jsem to pokazil ještě víc, než to bylo. Markéta však nezačala ihned svalovat bezhlavě 
 vinu na mě. Doufám, že kontrolka se nerozsvítila kvůli mému zacházení 
 s motorem.
 
-Moc jsem nad tím nepřemýšlel. Je dobré mít auto nastartované, abych zjistil 
-poslechem jestli když s něčím pohnu, co se stane se zvukem motoru. Jestli 
-nenaskočí ten válec co nezapaluje. Ve spěchu jsem nenašel kabely ke svíčkám. 
-Kryt nebyl řešený dobře. Nešel jednoduše oddělat kvůli hadičce. Malá hadička. 
-Nic co vypadalo pro ten okamžik důležitě.
+Moc jsem nad celou tou akcí nepřemýšlel. Jedna z technik diagnostiky je mít
+auto nastartované, abych zjistil  poslechem jestli když s něčím pohnu, co se
+stane se zvukem motoru při nějaké akci jako pohnutí nějakou hadičkou - Jestli
+třeba nenaskočí ten válec co nezapaluje. Ve spěchu jsem nenašel kabely ke svíčkám.
 
 Kabely ke vstřikům byly suché. Zahýbal jsem s nimi a nic se nestalo. Zkusil
 jsem tedy aspoň tohle. Nepovedlo se. Se smutkem jsem poprosil ať motor zastaví, 
-protože dál už jsem nevěděl co s tím. Chtěl jsem připojit tu delikátně malou 
-hadičku o které jsem věděl, že se při sundávání krytu odpojila.
+protože dál už jsem nevěděl co s tím.
 
 Po cestě jsem přemýšlel i nahlas o tom, co bych dělal kdybychom měli problém na 
-dálnici. Říkám že bych zavolal mámě protože ta řídí auto. Nebo kamarádovi. Taky 
-mě napadla odtahovka, ale to jaksi nepřipadlo do mé úvahy. Byli jsme už blízko 
+dálnici. Nejdřív mě napadlo zavolat mé mámě protože ta řídí auto. Nebo kamarádovi. Taky 
+mě napadla odtahovka, ale odtahovka jaksi nepřipadla do mé úvahy. Byli jsme už blízko 
 domu. Asi bych zavolal Kámošovi, akorát nevím, jestli má lano. Nejbezpečnější 
 by byla ta odtahovka. Z mého hlediska nejlepší by bylo na dálnici vůbec 
 nevjíždět.
