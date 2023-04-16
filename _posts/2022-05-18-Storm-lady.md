@@ -1,18 +1,22 @@
 ---
 layout: post
-description: A lady who did and didn't ofer me a ride because I was stupborn to ride home on my bicicle.
-tags: poem
+description: To the lady who I refused to take
+             a ride with because I was stupborn
+             to ride home on my bicicle.
+tags: poem, english
 ---
 
     Waiting for the train
-    here it comes... the rain
-    in the far lands tunder-storm
-    waiting on the step for horn
-    to shout loud I'll be back home soon
-    when there is no star no moon
+    when she comes... the rain!
+    in the far lands... tunder-storm
+    waiting on the step... train horn
+
+    Points the finger there my home...
+    I don't want to stay alone
+    in this stormy weather... bus!
+    Taking just 2 people - us.
+
+    Looking... there's no star no moon
     please come visit me at noon
-    we'll go out and I'll make pun
-    that this was a short rainy run
-    it will last for eternity:
-    Awesome lady, see you pretty
-    soon.
+    we'll go out, we came home,
+    next adwenture? We'll make some.
