@@ -40,20 +40,20 @@
    a rozvíjejíce a vyvíjejíce sebe, své programy a ostatní lidi. To všechno tak aby to
    pro ostatní bylo to, co ode mne očekávají a co chtějí, co si žádají a za co mi dají
    zdroje na další rozvoj včetně peněz.
- * Šířit zdravé dovednosti: sebezáchovu, sebeúctu, sebekontrolu, sebepřijetí, 
+ * Zužitkovávat zdravé dovednosti: sebezáchovu, sebeúctu, sebekontrolu, sebepřijetí, 
    sebedůvěru, sebevědomí. Tím vzbuzovat v ostatních radost, touhy, inspiraci.
  * Dominovat.
  * Budovat si vzájemný respekt. Respektovat cizí názory a kultury a přesvědčení. Otevírat se lidem a s otevřenou,
    růstově nastavenou myslí přijímat cizí názory pomocí kritického myšlení.
- * Jíst, žít milovat a pracovat s životní partnerkou se kterou budeme pečovat o děti.
+ * Milovat jíst vžívat se a pracovat s životní partnerkou se kterou budeme láskyplně pečovat o děti.
    Přijímat je. Chápat je. Učit je tak aby jim oči zářili a aby jejich děti v životě prosperovaly.
    potřebovat k životu a k bezpečnému vývinu.
- * Stát se pradědečkem a dědečkem a otcem a učitelem a guruem a vůdcem a leadrem.
- * Šířit upřímnou dokonalost - Žít zdravě zbožně a vesele a šťastně a empaticky a inteligentně
-                               a vizionářský a chytře a rozvážně a rozhodně a příjemně a upřímně a otevřeně.
- * Zužitkovávat nepotřebné věci a zpravovat nefungující věci a designovat tak aby vše fungovalo bezchybně
+ * Stát se pradědečkem a dědečkem a otcem a guruem.
+ * Vžívat upřímnost a dokonalost - Vžívat zdraví zbožnost radost a empatii a inteligenci
+                                   vizionářsky a moudře a rozvážně a rozhodně příjemně a upřímně a otevřeně.
+ * Zužitkovávat nepotřebné věci a zpravovat špatně fungující věci a designovat tak aby vše fungovalo bezchybně
    a vše bylo vkusně sladěno s okolím.
- * Zajišťovat prostředky pro naši rodinu.
+ * Užívat si zajišťování prostředků pro naši rodinu otevřeně s úsměvem na tváři a upřímnou radostí v srdci.
  * Být leaderem ve spojování lidí, teamů, oborů, národností a myslí a názorů a kultur a přesvědčení. 
  * Vytvářet mírumilovný, radostný a milující svět pro mne a a všechny okolo.
  * To vše pomocí hledání prosperujících a všeobecně prospěšných konsenzů.
@@ -70,14 +70,14 @@
    * To nejdůležitější dávat na první místo.
    * Nejdříve pochopit, potom se snažit být pochopen.
    * Vytvářet synergie.
-   * "Ostřit pilu" - Odpočívat, vylepšovat své dovednosti, pečovat o své zdraví a nástroje tak aby dobře sloužily.
+   * "Ostřit pilu" - Láskyplně odpočívat, vylepšovat své dovednosti, láskyplně milovat své zdraví i nástroje.
  * Naučit se říkat NE v pravou chvíli tak, aby to bylo k prosperitě a etice a neublížilo, 
    sblížilo a razantně odmítlo to co je kruté, příšerné, hnusné a vede k destrukci životů.
- * Čestně a vydělávat:
-     * Na prodeji tanečních kurzů, protože tanec je boží.
-     * Na koučingu.
-     * Na prodeji opravených spotřebičů.
-     * Na tvorbě a udržování webových presentací aktuálních a v chodu.
+ * Žít čestně a vydělávat:
+     * Prodeji tanečních kurzů, protože tanec je boží.
+     * Prodejem koučingu.
+     * Prodejem opravených spotřebičů.
+     * Tvorbou a udržování webových presentací aktuálních a v chodu.
  * Inzerovat taneční kurzy - swing, protože swing přináší radost a kulturu.
  * Dělat taneční akce, zůčastňovat se a pořádat taneční festivaly.
 
@@ -112,28 +112,30 @@ Dostaňte své akce do bodu kde je svět bude svět mít za neuvěřitelné.
 
 ### Vymanění-se ze střední třídy.
  * Jak jste chápali střední třídu před tím, než jste si přečetli kapitolu?
-   Kladně. Neuvědomoval jsem si, že nejsem ve střední třídě.
+   Jako sebe.
  * Jaké jsou úrovně příjmů střední třídy?
-   Takové, že to tak akorát stačí na živobytí.
+   Irelevantní, protože různé krize a výkyvy způsobí ztrátu zaměstnání a zdravotní problémy.
  * Co pro tebe střední třída teď znamená?
-   Lidé, kteří dělají to co se jim řekne. Neuvažují co bude.
-   Když ano, bojí se projevit.
-
-
+   Přežívání na kraji společnosti. Bez vazeb na druhé a malé šíření hojnosti do okolí.
+   
 ### Posedlost není nemoc. Je to dar
  * Společnost musí vědět že neděláte **kompromisy**. To znamená že děláme **konsensy** vedoucí k prosperitě.
    To jsou win + win (+ win)* řešení.
  * Společnost má tendence posedlost potlačovat.
 
+### Co to jsou 10x akce?
+ * To jsou akce vyplývající z cílů nastavených tak, že jsou 10x vetší, než ty co si myslíme, že můžeme splnit.
 
 #### Cvičení
  * Vypište jména tří posedlých lidí, kteří dokázali něco velkého.
-   Ježíš a Buddha a Tao Te Ching
+   Já jsem dokázal sám sobě že jsem, protože jsem se nalezl v sobě a získal sebereflexi, svědomí, upřímný úsměv,
+   schopnost nalezení integrity a spontanity.
+   Einsten dokázal přesvědčit lidi okolo sebe a ti okolo sebe a lidi po něm pomocí myšlenkových experimentů. Tím, že šířili dokazatelné myšlenky přesvědčující ostatní dokázali přežít fyzicky tak duševně a žijí stále mezi námi.
+   Russel M. Nelson dokázal přesvědčit tranzitivně i mne a spoustu lidí okolo sebe že je prorokem Božím.
  * Jakou dobrou věc potřebujete abyste byli zase posedlí.
-   Pochvalu, Povzbuzení, Dosažitelný cíl, Plán, který dodržím, který si sám 
-   stanovím.
+   Lásku, Postoj a Posez, integritu, odhodlání, prostředky, pracovní, nástroje, soustředění, píli, výdrž a výkon v zásuvce a rozdvojku.
  * Proč je lepší být posedlý, než nebýt?
-   Protože to vede k nejlepším výsledkům.
+   Protože to vede k šíření hojnosti ve společnosti a k vžívání utopie ve všedním dni.
  * Díky kterému cíli byste se mohli stát posedlým?
-   Uzdravení se. Žití zdravého života včetně zdravého spaní. Trvalý pokrok a trvalá změna
+   Díky uzdravení lidí okolo. Žití zdravého života včetně zdravého spaní. Trvalý pokrok a trvalá změna
    ve společnosti ke zdravé společnosti bezdlužné a vzkvétající.
