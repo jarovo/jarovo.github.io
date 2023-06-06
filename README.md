@@ -1,6 +1,6 @@
 # Build the code
 
-    ✗ podman build .
+    ✗  podman  build --tag github_pages_runner .
     STEP 1/11: FROM fedora
     STEP 2/11: RUN dnf install -y gcc-c++ ruby ruby-devel openssl-devel redhat-rpm-config @development-tools
     --> Using cache a65bbf13f1ba55e14f424026ddf90aee9cedfef896789dd7e0ed9b2c8f4431e5
@@ -9,11 +9,11 @@
     STEP 11/11: CMD bundle exec jekyll serve
     COMMIT
     --> d710b6144a3
-    d710b6144a3...
+    Successfully tagged localhost/github_pages_runner:latest
 
 # Run the code locally for debug purposes (fast feedback).
 
-    ✗ podman run -it --rm -v .:/github-pages-devel:Z --network=host d710b6144a3 \
+    ✗ podman run -it --rm -v .:/github-pages-devel:Z --network=host github_pages_runner \
     bash -c "cd /github-pages-devel && LC_ALL=en_US.UTF-8 bundle exec jekyll serve"
 
 # Serve
