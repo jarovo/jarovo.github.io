@@ -39,7 +39,7 @@
  * Parafrázujte - Svými slovy co druhý řekl
  * Povzbuzujte - odhadnout co si druhý zvědomí. Buďte oporou.
 
- ### Cesta k sobě
+### Cesta k sobě
   * Shodujte se - sohlaste, když sdílíte názory.
   * Budujte - když něco chybí souhlaste tam, kde sdílíte potom budujte.
   * Srovnávejte - výrazné odlišnosti (pohledy) porovnávejte
