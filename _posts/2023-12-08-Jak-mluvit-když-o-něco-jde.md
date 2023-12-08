@@ -13,7 +13,7 @@
 * Odmítněte bláznovu volbu
   * ne klid x poctivost
   * ne vítěztví x porážku
-  * hledat _a_
+  * hledat __a__
   * ujasněte is: Co nechcete?
   * Požádejte mozek o pátrání po možonstech, které přivedou k dialogu.
 
@@ -24,7 +24,6 @@
  * Pozorujte ostatní - jestli se uchylují k mlčení x agresi
  * Sledujte, kdy u vás vypukne  chování pod tlakem
 
-
 ## 7. OZNAM
  * Opřete se os sdílená fakta
  * Zpravte druhé o svém příběhu
@@ -32,13 +31,15 @@
    * Povzbuzujte ostatní aby se podělili o svá fakta i příběhy
  * Aniž je cokoliv jisté, předneste svůj příběh - netvařte se, že jde o fakt.
  * Mluvte o zkouškách - Zajistěte aby bylo pro ostatní bezpečné vyjádřit odlišné nebo protichůdné názory.
-## 8. Poznání. Prozkoumejte stanoviska ostatních
+
+## 8. Poznání.
+### Prozkoumejte stanoviska ostatních
  * Ptejte se - zájem o názory.
  * Zrcadlete - zvyšujte bezpečnost uznáním emocié.
  * Parafrázujte - Svými slovy co druhý řekl
  * Povzbuzujte - odhadnout co si druhý zvědomí. Buďte oporou.
 
- ## Cesta k sobě
+ ### Cesta k sobě
   * Shodujte se - sohlaste, když sdílíte názory.
   * Budujte - když něco chybí souhlaste tam, kde sdílíte potom budujte.
   * Srovnávejte - výrazné odlišnosti (pohledy) porovnávejte
