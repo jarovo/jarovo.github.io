@@ -35,11 +35,11 @@
 ## 8. Poznání.
 ### Prozkoumejte stanoviska ostatních
  * Ptejte se - zájem o názory.
- * Zrcadlete - zvyšujte bezpečnost uznáním emocié.
+ * Zrcadlete - zvyšujte bezpečnost uznáním emocí.
  * Parafrázujte - Svými slovy co druhý řekl
- * Povzbuzujte - odhadnout co si druhý zvědomí. Buďte oporou.
+ * Povzbuzujte - odhadnout co si druhý zvědomí. *Buďte oporou.*
 
 ### Cesta k sobě
   * Shodujte se - sohlaste, když sdílíte názory.
   * Budujte - když něco chybí souhlaste tam, kde sdílíte potom budujte.
-  * Srovnávejte - výrazné odlišnosti (pohledy) porovnávejte
+  * Srovnávejte - výrazné odlišnosti (pohledy) porovnávejte.
