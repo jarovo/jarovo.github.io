@@ -19,7 +19,8 @@ Stanovoval jsem krátkodobé a malé cíle - realistické v dané době.
  * Neusínat "na vavřínech".
  * Vybudovat si vzájemný respekt. Respektovat cizí názory a kultury a přesvědčení. Mít otevřenou mysl
    a nepřijímat cizí názory nekriticky.
- * Najít životní partnerku, která bude dámou mého srdce. Mít s ní kvalitní vztah.
+ * Najít životní partnerku, která bude dámou mého srdce. Zamilovávat se do ni.
+   Milovat ji celou tak jak je. Se vzrušením i něhou. S pozitivními i negativními vlastnosti vnímat jako příležitosti k rozvoji dobra.
  * Zplodit zdravé dítě s touto ženou. Přijmout ho. Chápat ho. Dát mu to co bude 
    potřebovat k životu a k bezpečnému vývinu.
  * Být otcem & učitelem & guruem & vůdcem & leadrem.
