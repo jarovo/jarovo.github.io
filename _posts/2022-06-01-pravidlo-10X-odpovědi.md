@@ -1,4 +1,4 @@
-## 10x Cíle
+## Cíle - podle knihy Pravidlo 10x.
 Stanovte si 10x cíle.
 Spojte si je s dalšími důvody.
 Vypište si je každý den - když vstanete, před tím než jdete spát.
@@ -11,6 +11,7 @@ Stanovoval jsem krátkodobé a malé cíle - realistické v dané době.
    smrti a zkáze.
  * Dávat si důležité otázky a odpovídat si na ně pravdivě.
  * Vyléčit se ze svých nemocí.
+ * Být dokonalým - Být zdravý, veselý a šťastný.
  * Společně vyřešit složité problémy, problémy naší rodiny, problémy ostatních.
  * Moudře si vybírat problémy které budu řešit já.
  * Zjednodušovat svůj život jako člověk a nekomplikovat život ostatním.
@@ -19,12 +20,11 @@ Stanovoval jsem krátkodobé a malé cíle - realistické v dané době.
  * Neusínat "na vavřínech".
  * Vybudovat si vzájemný respekt. Respektovat cizí názory a kultury a přesvědčení. Mít otevřenou mysl
    a nepřijímat cizí názory nekriticky.
- * Najít životní partnerku, která bude dámou mého srdce. Zamilovávat se do ni.
+ * Najít životní partnerku, která bude dámou mého srdce. Mít s ní kvalitní milující vztah.
    Milovat ji celou tak jak je. Se vzrušením i něhou. S pozitivními i negativními vlastnostmi.
  * Zplodit zdravé dítě s touto ženou. Přijmout ho. Chápat ho. Dát mu to co bude 
    potřebovat k životu a k bezpečnému vývinu.
  * Být otcem & učitelem & guruem & vůdcem & leadrem.
- * Být dokonalým - Být zdravý, veselý a šťastný.
  * Zužitkovat nepotřebné věci. Nekupovat další nepotřebné věci, opravovat rozbité.
  * Zajišťovat prostředky pro naši rodinu.
  * Být leaderem ve spojování lidí, teamů, oborů.
