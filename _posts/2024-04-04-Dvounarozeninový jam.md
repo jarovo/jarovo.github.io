@@ -36,7 +36,7 @@ Vnímáme své nadšení pro swing a chceme jej předávat dál. Matěj dělá t
 Markéta a Marťa jsou pro to něco dělat. Matěj už dělá. Markéta včera mluvila s ostatními ze SwingStones. Vypadá to, že pomalu přebírá některé swingové otěže spolu s Matějem. Marťa se mě včera snažila naučit různé variace swingoutu. Už to ten den chtěla se mnou vzát, ale nenechal jsem ji to vzdát. Chtělo to ji dát najevo, že to vzdát nechci. Potom jsem pochopil o co jí jde - že chce abych se naučil reagovat na její podněty. Uvítal bych od ní dát mi vědět trochu víc dopředu. To by mohlo napomoct lepšímu flow mezi námi. Díky Marťo! Rád bych se od tebe dozvěděl, co všechno vedlo k tomu, že jsi se naučila zapamatovat si taneční figury.
 
 #### Co si odnáším ze včerejška?
-Markéta a Marťa jsou kamarádky. Marťa dokáže Martinu rozesmát a toho si moc vážím. Odnáším si dojetí z narozeninového Jamu. Odnáším si sdílení nadšení ostatních. Odnáším si to, že někdy je potřeba vytrvale a dlouho jednat, než se dobereme ke stabilnímu partnerství - Jarda Říkal, že Nepálská je pro swing nejstabilnější zázemí, kterého bylo dosaženo po dlouhém jednání.
+Markéta a Marťa jsou kamarádky. Marťa dokáže Market rozesmát a toho si moc vážím. Odnáším si dojetí z narozeninového Jamu. Odnáším si sdílení nadšení ostatních. Odnáším si to, že někdy je potřeba vytrvale a dlouho jednat, než se dobereme ke stabilnímu partnerství - Jarda Říkal, že Nepálská je pro swing nejstabilnější zázemí, kterého bylo dosaženo po dlouhém jednání.
 
 Swing se tančí i v Long Story short. Tam pomohly vzájemné sympatie. Beru a vyvozuji si z toho, že spolupráce začíná s pochopením-se (sebe), pak s pochopením druhého, to pomáhá ve vyjednávání o operativě a následné spolupráci.
 
