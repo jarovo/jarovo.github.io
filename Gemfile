@@ -3,4 +3,4 @@ gem "github-pages", group: :jekyll_plugins
 gem "webrick"
 
 gem "jekyll"
-gem "jekyll-theme-leap-day"
+gem "jekyll-theme-minimal"
