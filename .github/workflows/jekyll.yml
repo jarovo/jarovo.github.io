@@ -23,7 +23,7 @@ jobs:
       run: |
         docker run \
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-        jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && gem install jekyll-theme-leap-day && jekyll build --future"
+        jekyll/builder:latest /bin/bash -c "jekyll build"
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
 
