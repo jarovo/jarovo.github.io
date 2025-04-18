@@ -1,3 +1,8 @@
+# Run the code locally for debug purposes (fast feedback).
+
+    $ podman run -it --rm -v .:/github-pages-devel:Z --network=host jekyll/builder \
+    bash -c "cd /github-pages-devel && bundle install && bundle exec jekyll serve"
+
 # Build the code
 
     ✗  podman  build --tag github_pages_runner .
@@ -10,11 +15,6 @@
     COMMIT
     --> d710b6144a3
     Successfully tagged localhost/github_pages_runner:latest
-
-# Run the code locally for debug purposes (fast feedback).
-
-    ✗ podman run -it --rm -v .:/github-pages-devel:Z --network=host github_pages_runner \
-    bash -c "cd /github-pages-devel && LC_ALL=en_US.UTF-8 bundle exec jekyll serve"
 
 # Serve
 
