@@ -276,7 +276,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll
-  jekyll-theme-leap-day
+  jekyll-theme-minimal
   webrick
 
 BUNDLED WITH
