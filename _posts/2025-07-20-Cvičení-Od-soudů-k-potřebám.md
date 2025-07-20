@@ -9,4 +9,4 @@ Toto cvičení pomůže naučení-se lepšímu překládání soudů na nevyřč
 
 1. Sepsat kdy jsem byl naštvaný.
 2. Ke každému 1. napsat co jsem si říkal (o druhém) co mě dělalo naštvaným.
-3. Identifikovat která potřeba byla za 2. která nebyla vyřčena.
+3. Identifikovat které nevyřčené potřeby byly za tvrzeními z bodu 2.
